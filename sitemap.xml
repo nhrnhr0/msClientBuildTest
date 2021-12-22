@@ -11,10 +11,10 @@
     <loc>https://ms-global.co.il/category/10</loc>
   </url>
   <url>
-    <loc>https://ms-global.co.il/category/13</loc>
+    <loc>https://ms-global.co.il/category/14</loc>
   </url>
   <url>
-    <loc>https://ms-global.co.il/category/14</loc>
+    <loc>https://ms-global.co.il/category/13</loc>
   </url>
   <url>
     <loc>https://ms-global.co.il/category/17</loc>
@@ -95,19 +95,19 @@
     <loc>https://ms-global.co.il/category/10/products</loc>
   </url>
   <url>
+    <loc>https://ms-global.co.il/category/14/products</loc>
+  </url>
+  <url>
     <loc>https://ms-global.co.il/category/13/products</loc>
+  </url>
+  <url>
+    <loc>https://ms-global.co.il/category/18/products</loc>
   </url>
   <url>
     <loc>https://ms-global.co.il/category/17/products</loc>
   </url>
   <url>
-    <loc>https://ms-global.co.il/category/14/products</loc>
-  </url>
-  <url>
     <loc>https://ms-global.co.il/category/19/products</loc>
-  </url>
-  <url>
-    <loc>https://ms-global.co.il/category/18/products</loc>
   </url>
   <url>
     <loc>https://ms-global.co.il/category/20/products</loc>
@@ -206,105 +206,6 @@
     <loc>https://ms-global.co.il/category/10/products/94</loc>
   </url>
   <url>
-    <loc>https://ms-global.co.il/category/13/products/159</loc>
-  </url>
-  <url>
-    <loc>https://ms-global.co.il/category/13/products/160</loc>
-  </url>
-  <url>
-    <loc>https://ms-global.co.il/category/13/products/161</loc>
-  </url>
-  <url>
-    <loc>https://ms-global.co.il/category/13/products/162</loc>
-  </url>
-  <url>
-    <loc>https://ms-global.co.il/category/13/products/20</loc>
-  </url>
-  <url>
-    <loc>https://ms-global.co.il/category/13/products/21</loc>
-  </url>
-  <url>
-    <loc>https://ms-global.co.il/category/13/products/22</loc>
-  </url>
-  <url>
-    <loc>https://ms-global.co.il/category/13/products/238</loc>
-  </url>
-  <url>
-    <loc>https://ms-global.co.il/category/13/products/239</loc>
-  </url>
-  <url>
-    <loc>https://ms-global.co.il/category/13/products/24</loc>
-  </url>
-  <url>
-    <loc>https://ms-global.co.il/category/13/products/25</loc>
-  </url>
-  <url>
-    <loc>https://ms-global.co.il/category/13/products/26</loc>
-  </url>
-  <url>
-    <loc>https://ms-global.co.il/category/13/products/420</loc>
-  </url>
-  <url>
-    <loc>https://ms-global.co.il/category/13/products/421</loc>
-  </url>
-  <url>
-    <loc>https://ms-global.co.il/category/13/products/74</loc>
-  </url>
-  <url>
-    <loc>https://ms-global.co.il/category/13/products/75</loc>
-  </url>
-  <url>
-    <loc>https://ms-global.co.il/category/17/products/165</loc>
-  </url>
-  <url>
-    <loc>https://ms-global.co.il/category/17/products/167</loc>
-  </url>
-  <url>
-    <loc>https://ms-global.co.il/category/17/products/293</loc>
-  </url>
-  <url>
-    <loc>https://ms-global.co.il/category/17/products/295</loc>
-  </url>
-  <url>
-    <loc>https://ms-global.co.il/category/17/products/296</loc>
-  </url>
-  <url>
-    <loc>https://ms-global.co.il/category/17/products/297</loc>
-  </url>
-  <url>
-    <loc>https://ms-global.co.il/category/17/products/298</loc>
-  </url>
-  <url>
-    <loc>https://ms-global.co.il/category/17/products/299</loc>
-  </url>
-  <url>
-    <loc>https://ms-global.co.il/category/17/products/453</loc>
-  </url>
-  <url>
-    <loc>https://ms-global.co.il/category/17/products/456</loc>
-  </url>
-  <url>
-    <loc>https://ms-global.co.il/category/17/products/494</loc>
-  </url>
-  <url>
-    <loc>https://ms-global.co.il/category/17/products/500</loc>
-  </url>
-  <url>
-    <loc>https://ms-global.co.il/category/17/products/618</loc>
-  </url>
-  <url>
-    <loc>https://ms-global.co.il/category/17/products/628</loc>
-  </url>
-  <url>
-    <loc>https://ms-global.co.il/category/17/products/691</loc>
-  </url>
-  <url>
-    <loc>https://ms-global.co.il/category/17/products/692</loc>
-  </url>
-  <url>
-    <loc>https://ms-global.co.il/category/17/products/693</loc>
-  </url>
-  <url>
     <loc>https://ms-global.co.il/category/14/products/220</loc>
   </url>
   <url>
@@ -362,37 +263,52 @@
     <loc>https://ms-global.co.il/category/14/products/86</loc>
   </url>
   <url>
-    <loc>https://ms-global.co.il/category/19/products/138</loc>
+    <loc>https://ms-global.co.il/category/13/products/159</loc>
   </url>
   <url>
-    <loc>https://ms-global.co.il/category/19/products/139</loc>
+    <loc>https://ms-global.co.il/category/13/products/160</loc>
   </url>
   <url>
-    <loc>https://ms-global.co.il/category/19/products/140</loc>
+    <loc>https://ms-global.co.il/category/13/products/161</loc>
   </url>
   <url>
-    <loc>https://ms-global.co.il/category/19/products/411</loc>
+    <loc>https://ms-global.co.il/category/13/products/162</loc>
   </url>
   <url>
-    <loc>https://ms-global.co.il/category/19/products/412</loc>
+    <loc>https://ms-global.co.il/category/13/products/20</loc>
   </url>
   <url>
-    <loc>https://ms-global.co.il/category/19/products/413</loc>
+    <loc>https://ms-global.co.il/category/13/products/21</loc>
   </url>
   <url>
-    <loc>https://ms-global.co.il/category/19/products/414</loc>
+    <loc>https://ms-global.co.il/category/13/products/22</loc>
   </url>
   <url>
-    <loc>https://ms-global.co.il/category/19/products/466</loc>
+    <loc>https://ms-global.co.il/category/13/products/238</loc>
   </url>
   <url>
-    <loc>https://ms-global.co.il/category/19/products/467</loc>
+    <loc>https://ms-global.co.il/category/13/products/239</loc>
   </url>
   <url>
-    <loc>https://ms-global.co.il/category/19/products/468</loc>
+    <loc>https://ms-global.co.il/category/13/products/24</loc>
   </url>
   <url>
-    <loc>https://ms-global.co.il/category/19/products/469</loc>
+    <loc>https://ms-global.co.il/category/13/products/25</loc>
+  </url>
+  <url>
+    <loc>https://ms-global.co.il/category/13/products/26</loc>
+  </url>
+  <url>
+    <loc>https://ms-global.co.il/category/13/products/420</loc>
+  </url>
+  <url>
+    <loc>https://ms-global.co.il/category/13/products/421</loc>
+  </url>
+  <url>
+    <loc>https://ms-global.co.il/category/13/products/74</loc>
+  </url>
+  <url>
+    <loc>https://ms-global.co.il/category/13/products/75</loc>
   </url>
   <url>
     <loc>https://ms-global.co.il/category/18/products/119</loc>
@@ -401,10 +317,10 @@
     <loc>https://ms-global.co.il/category/18/products/120</loc>
   </url>
   <url>
-    <loc>https://ms-global.co.il/category/18/products/122</loc>
+    <loc>https://ms-global.co.il/category/18/products/121</loc>
   </url>
   <url>
-    <loc>https://ms-global.co.il/category/18/products/121</loc>
+    <loc>https://ms-global.co.il/category/18/products/122</loc>
   </url>
   <url>
     <loc>https://ms-global.co.il/category/18/products/168</loc>
@@ -452,10 +368,10 @@
     <loc>https://ms-global.co.il/category/18/products/182</loc>
   </url>
   <url>
-    <loc>https://ms-global.co.il/category/18/products/184</loc>
+    <loc>https://ms-global.co.il/category/18/products/183</loc>
   </url>
   <url>
-    <loc>https://ms-global.co.il/category/18/products/183</loc>
+    <loc>https://ms-global.co.il/category/18/products/184</loc>
   </url>
   <url>
     <loc>https://ms-global.co.il/category/18/products/185</loc>
@@ -519,6 +435,90 @@
   </url>
   <url>
     <loc>https://ms-global.co.il/category/18/products/681</loc>
+  </url>
+  <url>
+    <loc>https://ms-global.co.il/category/17/products/165</loc>
+  </url>
+  <url>
+    <loc>https://ms-global.co.il/category/17/products/167</loc>
+  </url>
+  <url>
+    <loc>https://ms-global.co.il/category/17/products/293</loc>
+  </url>
+  <url>
+    <loc>https://ms-global.co.il/category/17/products/295</loc>
+  </url>
+  <url>
+    <loc>https://ms-global.co.il/category/17/products/296</loc>
+  </url>
+  <url>
+    <loc>https://ms-global.co.il/category/17/products/297</loc>
+  </url>
+  <url>
+    <loc>https://ms-global.co.il/category/17/products/298</loc>
+  </url>
+  <url>
+    <loc>https://ms-global.co.il/category/17/products/299</loc>
+  </url>
+  <url>
+    <loc>https://ms-global.co.il/category/17/products/453</loc>
+  </url>
+  <url>
+    <loc>https://ms-global.co.il/category/17/products/456</loc>
+  </url>
+  <url>
+    <loc>https://ms-global.co.il/category/17/products/494</loc>
+  </url>
+  <url>
+    <loc>https://ms-global.co.il/category/17/products/500</loc>
+  </url>
+  <url>
+    <loc>https://ms-global.co.il/category/17/products/618</loc>
+  </url>
+  <url>
+    <loc>https://ms-global.co.il/category/17/products/628</loc>
+  </url>
+  <url>
+    <loc>https://ms-global.co.il/category/17/products/691</loc>
+  </url>
+  <url>
+    <loc>https://ms-global.co.il/category/17/products/692</loc>
+  </url>
+  <url>
+    <loc>https://ms-global.co.il/category/17/products/693</loc>
+  </url>
+  <url>
+    <loc>https://ms-global.co.il/category/19/products/138</loc>
+  </url>
+  <url>
+    <loc>https://ms-global.co.il/category/19/products/140</loc>
+  </url>
+  <url>
+    <loc>https://ms-global.co.il/category/19/products/139</loc>
+  </url>
+  <url>
+    <loc>https://ms-global.co.il/category/19/products/411</loc>
+  </url>
+  <url>
+    <loc>https://ms-global.co.il/category/19/products/412</loc>
+  </url>
+  <url>
+    <loc>https://ms-global.co.il/category/19/products/413</loc>
+  </url>
+  <url>
+    <loc>https://ms-global.co.il/category/19/products/414</loc>
+  </url>
+  <url>
+    <loc>https://ms-global.co.il/category/19/products/466</loc>
+  </url>
+  <url>
+    <loc>https://ms-global.co.il/category/19/products/467</loc>
+  </url>
+  <url>
+    <loc>https://ms-global.co.il/category/19/products/468</loc>
+  </url>
+  <url>
+    <loc>https://ms-global.co.il/category/19/products/469</loc>
   </url>
   <url>
     <loc>https://ms-global.co.il/category/20/products/204</loc>
@@ -635,10 +635,10 @@
     <loc>https://ms-global.co.il/category/23/products/255</loc>
   </url>
   <url>
-    <loc>https://ms-global.co.il/category/23/products/256</loc>
+    <loc>https://ms-global.co.il/category/23/products/257</loc>
   </url>
   <url>
-    <loc>https://ms-global.co.il/category/23/products/257</loc>
+    <loc>https://ms-global.co.il/category/23/products/256</loc>
   </url>
   <url>
     <loc>https://ms-global.co.il/category/23/products/258</loc>
@@ -1052,6 +1052,12 @@
     <loc>https://ms-global.co.il/category/29/products/533</loc>
   </url>
   <url>
+    <loc>https://ms-global.co.il/category/29/products/552</loc>
+  </url>
+  <url>
+    <loc>https://ms-global.co.il/category/29/products/607</loc>
+  </url>
+  <url>
     <loc>https://ms-global.co.il/category/29/products/616</loc>
   </url>
   <url>
@@ -1061,16 +1067,10 @@
     <loc>https://ms-global.co.il/category/29/products/624</loc>
   </url>
   <url>
-    <loc>https://ms-global.co.il/category/29/products/552</loc>
-  </url>
-  <url>
     <loc>https://ms-global.co.il/category/29/products/625</loc>
   </url>
   <url>
     <loc>https://ms-global.co.il/category/29/products/636</loc>
-  </url>
-  <url>
-    <loc>https://ms-global.co.il/category/29/products/607</loc>
   </url>
   <url>
     <loc>https://ms-global.co.il/category/29/products/652</loc>
@@ -1265,10 +1265,10 @@
     <loc>https://ms-global.co.il/category/32/products/537</loc>
   </url>
   <url>
-    <loc>https://ms-global.co.il/category/32/products/538</loc>
+    <loc>https://ms-global.co.il/category/32/products/539</loc>
   </url>
   <url>
-    <loc>https://ms-global.co.il/category/32/products/539</loc>
+    <loc>https://ms-global.co.il/category/32/products/538</loc>
   </url>
   <url>
     <loc>https://ms-global.co.il/category/32/products/541</loc>
@@ -1298,10 +1298,10 @@
     <loc>https://ms-global.co.il/category/32/products/560</loc>
   </url>
   <url>
-    <loc>https://ms-global.co.il/category/32/products/571</loc>
+    <loc>https://ms-global.co.il/category/32/products/573</loc>
   </url>
   <url>
-    <loc>https://ms-global.co.il/category/32/products/573</loc>
+    <loc>https://ms-global.co.il/category/32/products/571</loc>
   </url>
   <url>
     <loc>https://ms-global.co.il/category/32/products/577</loc>
@@ -1454,6 +1454,9 @@
     <loc>https://ms-global.co.il/category/33/products/599</loc>
   </url>
   <url>
+    <loc>https://ms-global.co.il/category/33/products/600</loc>
+  </url>
+  <url>
     <loc>https://ms-global.co.il/category/33/products/602</loc>
   </url>
   <url>
@@ -1461,9 +1464,6 @@
   </url>
   <url>
     <loc>https://ms-global.co.il/category/33/products/621</loc>
-  </url>
-  <url>
-    <loc>https://ms-global.co.il/category/33/products/600</loc>
   </url>
   <url>
     <loc>https://ms-global.co.il/category/33/products/626</loc>
@@ -1667,10 +1667,10 @@
     <loc>https://ms-global.co.il/category/36/products/501</loc>
   </url>
   <url>
-    <loc>https://ms-global.co.il/category/36/products/503</loc>
+    <loc>https://ms-global.co.il/category/36/products/505</loc>
   </url>
   <url>
-    <loc>https://ms-global.co.il/category/36/products/505</loc>
+    <loc>https://ms-global.co.il/category/36/products/503</loc>
   </url>
   <url>
     <loc>https://ms-global.co.il/category/36/products/506</loc>
@@ -1688,10 +1688,10 @@
     <loc>https://ms-global.co.il/category/36/products/515</loc>
   </url>
   <url>
-    <loc>https://ms-global.co.il/category/36/products/516</loc>
+    <loc>https://ms-global.co.il/category/36/products/517</loc>
   </url>
   <url>
-    <loc>https://ms-global.co.il/category/36/products/517</loc>
+    <loc>https://ms-global.co.il/category/36/products/516</loc>
   </url>
   <url>
     <loc>https://ms-global.co.il/category/36/products/520</loc>
@@ -2051,7 +2051,13 @@
     <loc>https://ms-global.co.il/category/7/products/108</loc>
   </url>
   <url>
+    <loc>https://ms-global.co.il/category/7/products/109</loc>
+  </url>
+  <url>
     <loc>https://ms-global.co.il/category/7/products/110</loc>
+  </url>
+  <url>
+    <loc>https://ms-global.co.il/category/7/products/111</loc>
   </url>
   <url>
     <loc>https://ms-global.co.il/category/7/products/112</loc>
@@ -2070,12 +2076,6 @@
   </url>
   <url>
     <loc>https://ms-global.co.il/category/7/products/117</loc>
-  </url>
-  <url>
-    <loc>https://ms-global.co.il/category/7/products/111</loc>
-  </url>
-  <url>
-    <loc>https://ms-global.co.il/category/7/products/109</loc>
   </url>
   <url>
     <loc>https://ms-global.co.il/category/7/products/118</loc>
